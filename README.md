@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
 # Comparative Analysis of Deep Learning and Traditional Computer Vision for Object Recognition in Robotics
 
 A project by **Chirag Rathi**, submitted for the COMP61342 course at the University of Manchester.
